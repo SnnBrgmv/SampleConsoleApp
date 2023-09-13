@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T7MYmkSZxtd9QsTqRICmmBnqlZZvOQevANmiKC9gn6bKwdITMeKPWvmEB/dzbFSzZ20JCZ2Epab7R+IfwPLi5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Introduction\\Tasks\\(20) 13.09.2023\\SampleConsoleApp\\SampleConsoleApp\\SampleConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

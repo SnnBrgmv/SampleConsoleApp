@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.exe
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.deps.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.runtimeconfig.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.CopyComplete
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\refint\SampleConsoleApp.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.genruntimeconfig.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(20) 13.09.2023\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\ref\SampleConsoleApp.dll
